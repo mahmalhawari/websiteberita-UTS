@@ -40,7 +40,7 @@ Proyek ini merupakan tugas **UTS Pemrograman Visual II** yang bertujuan untuk me
 ## 🧠 Pembuat
 **Nama:** Mahmal Hawari  
 **Kelas:** Pemrograman Visual II  
-**Dosen Pengampu:** *(isi nama dosen jika perlu)*  
+**Dosen Pengampu:** Yoghi Octopus
 
 ---
 

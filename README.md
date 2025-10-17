@@ -43,7 +43,7 @@ Proyek ini merupakan tugas **Ujian Tengah Semester (UTS)** mata kuliah **Pemrogr
 
 ---
 
-## 👨‍💻 Identitas Pembuat
+## 👨‍💻 Identitas 
 **Nama:** Mahmal Hawari  
 **Kelas:** Pemrograman Visual II  
 **Dosen Pengampu:** Yoghi Octopus  

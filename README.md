@@ -59,8 +59,6 @@ UTS_pemrograman/
 ├── script.js
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -68,6 +66,7 @@ Copy code
 1. Clone repository:
    ```bash
  git clone https://github.com/mahmalhawari/websiteberita-UTS.git
+ 
 2. Buka folder project di Visual Studio Code.
 
 3. Jalankan file index.html menggunakan ekstensi Live Server.

@@ -19,7 +19,7 @@ Proyek ini merupakan tugas **UTS Pemrograman Visual II** yang bertujuan untuk me
   - Gambar  
   - Judul  
   - Deskripsi singkat  
-  - Tombol **More**
+  - Tombol **Selengkapnya...**
 - Footer berisi deskripsi website dan link navigasi tambahan  
 - Desain responsif agar tampil baik di semua perangkat
 

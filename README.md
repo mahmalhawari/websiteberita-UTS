@@ -64,8 +64,7 @@ UTS_pemrograman/
 
 ## 💡 Panduan Menjalankan Proyek
 1. Clone repository:
-   ```bash
- git clone https://github.com/mahmalhawari/websiteberita-UTS.git
+   ```bash git clone https://github.com/mahmalhawari/websiteberita-UTS.git
  
 2. Buka folder project di Visual Studio Code.
 

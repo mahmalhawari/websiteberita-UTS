@@ -64,7 +64,6 @@ websiteberita-UTS/
 ├── script.js
 └── README.md
 
-
 ---
 
 ## 💡 Cara Menjalankan Proyek

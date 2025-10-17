@@ -74,8 +74,3 @@ Jika Anda ingin menjalankan proyek ini secara lokal:
 ✨ Website ini dikembangkan dengan semangat belajar dan eksplorasi teknologi web modern.
 
 
----
-
-Kalimat dan format di atas sudah sesuai gaya profesional GitHub (judul besar, ikon emoji kecil, dan penjelasan ringkas tapi elegan).
-
-Kamu mau sekalian aku bantu ubah link GitHub dan Vercel-nya otomatis setelah repo dan deploy jadi nanti?

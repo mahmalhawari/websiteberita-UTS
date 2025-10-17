@@ -1,78 +1,78 @@
 # 📰 Website Berita — UTS Pemrograman Visual II
 
-Proyek ini merupakan tugas **UTS Pemrograman Visual II** yang bertujuan untuk mengembangkan website berita dengan tampilan modern, responsif, dan fungsional menggunakan teknologi front-end.
+Proyek ini merupakan tugas **Ujian Tengah Semester (UTS)** untuk mata kuliah **Pemrograman Visual II**, dengan tujuan mengembangkan **website berita modern, responsif, dan interaktif** menggunakan teknologi front-end.
 
 ---
 
 ## 🚀 Teknologi yang Digunakan
 - **HTML5** — struktur halaman dan konten
 - **CSS3** — desain dan tata letak
-- **Bootstrap 5** — framework CSS untuk desain responsif (Wajib)
+- **Bootstrap 5** — framework CSS untuk desain responsif (**Wajib**)
 - **JavaScript (ES6)** — interaktivitas halaman
-- **jQuery** — manipulasi DOM dan efek animasi (Wajib)
+- **jQuery** — manipulasi DOM dan efek animasi (**Wajib**)
 
 ---
 
 ## 🧩 Fitur Utama
-- Header dengan navigasi kategori berita  
-- Kartu berita (Card News) berisi:
-  - Gambar  
-  - Judul  
-  - Deskripsi singkat  
-  - Tombol **Selengkapnya...**
-- Footer berisi deskripsi website dan link navigasi tambahan  
-- Desain responsif agar tampil baik di semua perangkat
+- **Header:** Navigasi kategori berita
+- **Card News:** Berisi gambar, judul, deskripsi singkat, dan tombol **Selengkapnya**
+- **Footer:** Memuat deskripsi website dan link navigasi tambahan
+- **Pencarian real-time:** Menyaring berita berdasarkan kata kunci
+- **Mode Gelap (Dark Mode):** Dapat diaktifkan dengan satu tombol
+- **Desain Responsif:** Optimal di desktop dan perangkat mobile
 
 ---
 
 ## 📸 Tampilan Website
-> Screenshot demo ditambahkan setelah proyek selesai dan diuji.
+> Screenshot demo akan ditambahkan setelah proyek selesai diuji.
 
 ---
 
 ## 🔗 Link Penting
-- **Repository GitHub:** 
-[https://github.com/mahmalhawari/websiteberita-UTS](https://github.com/mahmalhawari/websiteberita-UTS)
-
+- **Repository GitHub:**  
+  [https://github.com/mahmalhawari/websiteberita-UTS](https://github.com/mahmalhawari/websiteberita-UTS)
 - **Deploy Vercel:** *(akan diisi setelah upload ke Vercel)*
-- **Demo Video / Screenshot:** *(akan diisi setelah proyek selesai diuji)*
+- **Demo Video / Screenshot:** *(akan ditambahkan setelah pengujian)*
 
 ---
 
 ## 🧠 Pembuat
-**Nama:** Mahmal Hawari  
-**Kelas:** Pemrograman Visual II  
-**Dosen Pengampu:** Yoghi Octopus
+| Nama | Keterangan |
+|------|-------------|
+| **Mahmal Hawari** | Mahasiswa Pemrograman Visual II |
+| **Dosen Pengampu** | Yoghi Octopus |
 
 ---
 
 ## 🗓️ Keterangan Tugas
-Tugas ini diserahkan dalam rangka memenuhi **Ujian Tengah Semester (UTS)**  
-Mata Kuliah **Pemrograman Visual II**, dengan tenggat waktu 7 hari setelah soal diberikan.
+Tugas ini merupakan bagian dari **Ujian Tengah Semester (UTS)** mata kuliah *Pemrograman Visual II*,  
+dengan batas pengumpulan **7 hari** setelah soal diberikan.  
+Seluruh fitur wajib telah diimplementasikan sesuai instruksi.
 
 ---
 
-### 📂 Struktur Folder
+## 📂 Struktur Folder
 UTS_pemrograman/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── /assets
-│ ├── /img
-│ └── /css
-└── README.md 
+└── README.md
+
+yaml
+Copy code
 
 ---
 
-## 💡 Catatan
-Jika Anda ingin menjalankan proyek ini secara lokal:
-1. Clone repository:  
+## 💡 Panduan Menjalankan Proyek
+1. Clone repository:
    ```bash
-   git clone https://github.com/USERNAME/websiteberita-UTS.git
-2. Buka file index.html menggunakan Live Server (VSCode Extension).
-3. Pastikan seluruh file CSS, JS, dan gambar berada dalam folder yang sesuai.
+ git clone https://github.com/mahmalhawari/websiteberita-UTS.git
+2. Buka folder project di Visual Studio Code.
 
-✨ Website ini dikembangkan dengan semangat belajar dan eksplorasi teknologi web modern.
+3. Jalankan file index.html menggunakan ekstensi Live Server.
 
+4. Pastikan file CSS, JS, dan gambar berada di struktur folder yang sesuai.
+
+✨ Website ini dikembangkan dengan semangat belajar, eksplorasi, dan profesionalisme dalam membangun antarmuka web modern.
 

@@ -64,8 +64,6 @@ websiteberita-UTS/
 ├── script.js
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -87,14 +85,3 @@ Seluruh komponen dibuat agar tetap rapi, fungsional, dan estetis, sesuai dengan 
 📢 Lisensi
 Proyek ini dibuat untuk keperluan akademik dan tidak diperuntukkan untuk penggunaan komersial tanpa izin pembuat.
 
-yaml
-Copy code
-
----
-
-### ✅ Langkah upload ke GitHub:
-1. Masuk ke repo kamu → [https://github.com/mahmalhawari/websiteberita-UTS](https://github.com/mahmalhawari/websiteberita-UTS)  
-2. Klik tombol **“Add file” → “Create new file”**  
-3. Isi nama file: `README.md`  
-4. Paste seluruh isi di atas  
-5. Scroll ke bawah → klik **Commit new file**

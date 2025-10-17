@@ -1,76 +1,99 @@
-# 📰 Website Berita — UTS Pemrograman Visual II
+📰 Website Berita — UTS Pemrograman Visual II
 
-Proyek ini merupakan tugas **Ujian Tengah Semester (UTS)** untuk mata kuliah **Pemrograman Visual II**, dengan tujuan mengembangkan **website berita modern, responsif, dan interaktif** menggunakan teknologi front-end.
+Proyek ini merupakan tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Visual II, yang bertujuan untuk mengembangkan website berita dengan tampilan modern, responsif, dan fungsional menggunakan teknologi front-end.
 
----
+🚀 Teknologi yang Digunakan
 
-## 🚀 Teknologi yang Digunakan
-- **HTML5** — struktur halaman dan konten
-- **CSS3** — desain dan tata letak
-- **Bootstrap 5** — framework CSS untuk desain responsif (**Wajib**)
-- **JavaScript (ES6)** — interaktivitas halaman
-- **jQuery** — manipulasi DOM dan efek animasi (**Wajib**)
+HTML5 — struktur halaman dan konten
 
----
+CSS3 — desain dan tata letak
 
-## 🧩 Fitur Utama
-- **Header:** Navigasi kategori berita
-- **Card News:** Berisi gambar, judul, deskripsi singkat, dan tombol **Selengkapnya**
-- **Footer:** Memuat deskripsi website dan link navigasi tambahan
-- **Pencarian real-time:** Menyaring berita berdasarkan kata kunci
-- **Mode Gelap (Dark Mode):** Dapat diaktifkan dengan satu tombol
-- **Desain Responsif:** Optimal di desktop dan perangkat mobile
+Bootstrap 5 — framework CSS untuk tampilan responsif (Wajib)
 
----
+JavaScript (ES6) — interaktivitas halaman
 
-## 📸 Tampilan Website
-> Screenshot demo akan ditambahkan setelah proyek selesai diuji.
+jQuery — manipulasi DOM dan efek animasi (Wajib)
 
----
+🧩 Fitur Utama
 
-## 🔗 Link Penting
-- **Repository GitHub:**  
-  [https://github.com/mahmalhawari/websiteberita-UTS](https://github.com/mahmalhawari/websiteberita-UTS)
-- **Deploy Vercel:** *(akan diisi setelah upload ke Vercel)*
-- **Demo Video / Screenshot:** *(akan ditambahkan setelah pengujian)*
+✅ Header berisi navigasi kategori berita
+✅ Card News dengan:
 
----
+Gambar berita
 
-## 🧠 Pembuat
-| Nama | Keterangan |
-|------|-------------|
-| **Mahmal Hawari** | Mahasiswa Pemrograman Visual II |
-| **Dosen Pengampu** | Yoghi Octopus |
+Judul berita
 
----
+Deskripsi singkat
 
-## 🗓️ Keterangan Tugas
-Tugas ini merupakan bagian dari **Ujian Tengah Semester (UTS)** mata kuliah *Pemrograman Visual II*,  
-dengan batas pengumpulan **7 hari** setelah soal diberikan.  
-Seluruh fitur wajib telah diimplementasikan sesuai instruksi.
+Tombol Read More
 
----
+✅ Footer berisi deskripsi website atau link navigasi tambahan
+✅ Desain responsif di berbagai ukuran layar
 
-## 📂 Struktur Folder
-UTS_pemrograman/
+📸 Tampilan Website
+
+Screenshot atau video demo akan ditambahkan setelah proyek selesai diuji.
+
+🔗 Link Penting
+
+Repository GitHub:
+https://github.com/mahmalhawari/websiteberita-UTS
+
+Deploy Vercel:
+(akan diisi setelah di-deploy ke Vercel)
+
+Demo Video / Screenshot:
+(akan diisi setelah uji coba selesai)
+
+👨‍💻 Identitas Pembuat
+
+Nama: Mahmal Hawari
+Kelas: Pemrograman Visual II
+Dosen Pengampu: Yoghi Octopus
+
+🗓️ Keterangan Tugas
+
+Tugas ini diserahkan untuk memenuhi Ujian Tengah Semester (UTS)
+Mata Kuliah Pemrograman Visual II, dengan tenggat waktu 7 hari setelah soal diberikan.
+
+📂 Struktur Folder
+websiteberita-UTS/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 
+💡 Cara Menjalankan Proyek
 
----
+Clone repository ini:
 
-## 💡 Panduan Menjalankan Proyek
-1. Clone repository:
-   ```bash git clone https://github.com/mahmalhawari/websiteberita-UTS.git
- 
-2. Buka folder project di Visual Studio Code.
+git clone https://github.com/mahmalhawari/websiteberita-UTS.git
 
-3. Jalankan file index.html menggunakan ekstensi Live Server.
 
-4. Pastikan file CSS, JS, dan gambar berada di struktur folder yang sesuai.
+Buka folder proyek di Visual Studio Code.
 
-✨ Website ini dikembangkan dengan semangat belajar, eksplorasi, dan profesionalisme dalam membangun antarmuka web modern.
+Jalankan file index.html menggunakan Live Server (ekstensi VS Code).
 
+Pastikan semua file CSS, JS, dan gambar berada di folder yang sesuai.
+
+✨ Catatan Tambahan
+
+Website ini dikembangkan sebagai bentuk latihan dan penerapan teknologi web modern menggunakan HTML, CSS, Bootstrap, JavaScript, dan jQuery.
+Seluruh komponen dibuat agar tetap rapi, fungsional, dan estetis, sesuai dengan ketentuan tugas.
+
+📢 Lisensi
+
+Proyek ini dibuat untuk keperluan akademik dan tidak diperuntukkan untuk penggunaan komersial tanpa izin pembuat.
+
+Kalimat terakhir ini membuat README-mu terasa profesional dan tanggung jawab 👏
+
+Sekarang tinggal langkah terakhir:
+
+Di GitHub, klik “Add file → Create new file”
+
+Isi nama file: README.md
+
+Paste semua isi di atas
+
+Scroll ke bawah → klik Commit new file

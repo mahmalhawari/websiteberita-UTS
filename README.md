@@ -31,7 +31,7 @@ Proyek ini merupakan tugas **UTS Pemrograman Visual II** yang bertujuan untuk me
 ---
 
 ## 🔗 Link Penting
-- **Repository GitHub:** [https://github.com/USERNAME/websiteberita-UTS](https://github.com/USERNAME/websiteberita-UTS)
+- **Repository GitHub:** (https://github.com/mahmalhawari/websiteberita-UTS)
 - **Deploy Vercel:** *(akan diisi setelah upload ke Vercel)*
 - **Demo Video / Screenshot:** *(akan diisi setelah proyek selesai diuji)*
 
